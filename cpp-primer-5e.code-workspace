@@ -13,7 +13,12 @@
 			"new": "cpp",
 			"stdexcept": "cpp",
 			"typeinfo": "cpp",
-			"ostream": "cpp"
+			"ostream": "cpp",
+			"bitset": "cpp",
+			"iterator": "cpp",
+			"string": "cpp",
+			"utility": "cpp",
+			"__locale": "cpp"
 		}
 	}
 }
