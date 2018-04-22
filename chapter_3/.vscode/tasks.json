@@ -8,7 +8,7 @@
             "args": [
                 "-g",
                 "-std=c++11",
-                "*_2-42-3.cpp"
+                "*_3-1.cpp"
             ],
             "group": {
                 "kind": "build",
