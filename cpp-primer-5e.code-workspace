@@ -18,7 +18,9 @@
 			"iterator": "cpp",
 			"string": "cpp",
 			"utility": "cpp",
-			"__locale": "cpp"
+			"__locale": "cpp",
+			"iostream": "cpp",
+			"vector": "cpp"
 		}
 	}
 }
