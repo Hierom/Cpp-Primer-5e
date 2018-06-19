@@ -21,9 +21,11 @@ int main() {
   for (size_t pos = 0; pos != 10; ++pos) aten1[pos] = pos;
   int aten2[array_size];
   for (size_t pos = 0; pos != 10; ++pos) aten2[pos] = aten1[pos];
+  int(&aten3)[array_size] = aten1;
 
   print_array(aten1);
   print_array(aten2);
+  print_array(aten3);
 
   // vector ver.
   std::vector<int> vten1;
