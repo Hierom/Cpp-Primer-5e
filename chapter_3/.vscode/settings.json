@@ -18,6 +18,7 @@
         "cstdio": "cpp",
         "cstdlib": "cpp",
         "cwchar": "cpp",
-        "cwctype": "cpp"
+        "cwctype": "cpp",
+        "ostream": "cpp"
     }
 }
